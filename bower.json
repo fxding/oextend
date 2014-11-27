@@ -1,0 +1,21 @@
+{
+  "name": "oextend",
+  "version": "0.0.1",
+  "authors": [
+    "Fuxian Ding <nekleding@gmail.com>"
+  ],
+  "description": "extend object",
+  "main": "oextend.js",
+  "keywords": [
+    "extend",
+    "browser"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
